@@ -1,8 +1,13 @@
 /**
 *Arellano, Kim Joel O.
 * ITCC A2
-*October 9, 2020
+*October 13, 2020
 */
+
+					/* MODIFIED*/
+					
+					
+				
 class Main{
 
 	public static void main (String args []){
